@@ -13,4 +13,8 @@ Weather data from 9 different stations were used to study the weather patterns i
 - December had a higher standard deviation in temperature.
 
 ## Summary
+![alt text](https://github.com/specialcanadian/surfs_up/blob/main/Images/December.png)
+This is the summary table for Decmeber tempratures
 
+![alt text](https://github.com/specialcanadian/surfs_up/blob/main/Images/June.png)
+This is the one for June
